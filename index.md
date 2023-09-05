@@ -18,6 +18,12 @@ Unordered List:
 - Item 2
 - Item 3
 
+Or:
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 Ordered List:
 
 1. First Item
